@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Chapter8\Chapter8\bin\Debug\netcoreapp2.2\Chapter8.deps.json
+C:\Users\PC\source\repos\Chapter8\Chapter8\bin\Debug\netcoreapp2.2\Chapter8.runtimeconfig.json
+C:\Users\PC\source\repos\Chapter8\Chapter8\bin\Debug\netcoreapp2.2\Chapter8.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Chapter8\Chapter8\bin\Debug\netcoreapp2.2\Chapter8.dll
+C:\Users\PC\source\repos\Chapter8\Chapter8\bin\Debug\netcoreapp2.2\Chapter8.pdb
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.AssemblyInfo.cs
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.dll
+C:\Users\PC\source\repos\Chapter8\Chapter8\obj\Debug\netcoreapp2.2\Chapter8.pdb
